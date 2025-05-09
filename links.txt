@@ -1,0 +1,56 @@
+Лекции
+-----------------------------------------------------
+-----------------------------------------------------
+Введение
+---
+https://www.youtube.com/watch?v=StZaHBNWiOs
+------------------------------------------------------------------------------
+Векторные представления слов, Bag of Words. Латентный семантический анализ 
+---
+https://www.youtube.com/watch?v=EOgwODW67PE
+------------------------------------------------------------------------------
+Контестные эмбеддинги. Word2Vec. 
+---
+https://www.youtube.com/watch?v=WbtQzAvhnRI
+------------------------------------------------------------------------------
+RNN
+---
+https://www.youtube.com/watch?v=3OljkWQ2Uc0
+https://www.youtube.com/watch?v=WsXgPD4lmlc
+https://www.youtube.com/watch?v=OF_JnQlHXQ4
+https://www.youtube.com/watch?v=2a_7SmTNrJA
+------------------------------------------------------------------------------
+Языковое моделирование
+---
+Перплексия и постановка задачи
+https://www.youtube.com/watch?v=DHuRg6iO6FU
+---
+N-граммные модели
+https://www.youtube.com/watch?v=iszyO98wobw
+---
+Рекурентные языковые модели
+https://www.youtube.com/watch?v=nyzJA3lUx1c
+---
+Генерация текста
+https://www.youtube.com/watch?v=iR7p5FCeE4M
+---
+Машинный перевод, архитектура Seq2Seq
+https://www.youtube.com/watch?v=QjpEWRq-Cak
+---
+Механизм внимания (Attention)
+https://www.youtube.com/watch?v=Fki-Xe3CGg8
+---
+------------------------------------------------------------------------------
+Архитектура Transformer. Введение, Transformer Encoder
+https://www.youtube.com/watch?v=TBEwpgyoo20
+---
+https://www.youtube.com/watch?v=tsee8mosj5U
+Архитектура Transformer. Decoder, QKV Attention
+---
+
+-----------------------------------------------------
+
+
+
+Ссылка на старый гитхаб 2-го семестра DLS
+https://github.com/DLSchool/deep-learning-school/tree/fall_2021_part2
